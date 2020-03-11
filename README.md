@@ -9,3 +9,6 @@ topics we have covered so far
 - Cross Site Scripting (XSS) - vulnerabilities
 - machine learning - basic image recognition (CNNS) and doodle creation (RNNS)
 - APIs - News, Google Maps, Weather
+- simulations in python
+- web scraping with python
+- starting to do some machine learning in python

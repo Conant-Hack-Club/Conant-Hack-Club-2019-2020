@@ -11,5 +11,5 @@ topics we have covered so far
 - APIs - News, Google Maps, Weather
 - simulations in python
 - web scraping with python
-- Convolutional Neural Networks in python
+- Convolutional Neural Networks in Keras
 - Image Processing in python

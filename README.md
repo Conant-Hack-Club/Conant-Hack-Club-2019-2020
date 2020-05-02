@@ -13,3 +13,4 @@ topics we have covered so far
 - web scraping with python
 - Convolutional Neural Networks in Keras
 - Image Processing in python
+- Air Notability - drawing letters in the air and processing them using Python
